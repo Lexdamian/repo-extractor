@@ -1,4 +1,4 @@
-This tool can be used to connet cu JIRA api and extract all the repos that are involved in a release. 
+This tool can be used to connect with JIRA api and extract all the repos that are involved in a release. 
 
 Requirements: 
 
